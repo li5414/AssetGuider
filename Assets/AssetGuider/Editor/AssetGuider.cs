@@ -60,5 +60,5 @@ namespace Developer.AssetGuider
                 return false;
         }
         #endregion
-    }//class_end
-}//namespace_end
+    }
+}

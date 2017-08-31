@@ -26,5 +26,5 @@ namespace Developer.AssetGuider
         #region Property and Field
         public string extensions = ".txt|.shader";
         #endregion
-    }//class_end
-}//namespace_end
+    }
+}
