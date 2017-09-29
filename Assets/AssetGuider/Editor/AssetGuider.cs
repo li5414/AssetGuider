@@ -17,14 +17,14 @@
  *     1.     Mogoson     8/30/2017       0.1.0       Create this file.
  *************************************************************************/
 
+using System.IO;
+using System.Text.RegularExpressions;
+using UnityEditor;
+using UnityEditor.Callbacks;
+using UnityEngine;
+
 namespace Developer.AssetGuider
 {
-    using System.IO;
-    using System.Text.RegularExpressions;
-    using UnityEditor;
-    using UnityEditor.Callbacks;
-    using UnityEngine;
-
     public static class AssetGuider
     {
         #region Property and Field

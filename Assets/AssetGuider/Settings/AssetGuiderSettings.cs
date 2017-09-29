@@ -17,10 +17,10 @@
  *     1.     Mogoson     8/30/2017       0.1.0       Create this file.
  *************************************************************************/
 
+using UnityEngine;
+
 namespace Developer.AssetGuider
 {
-    using UnityEngine;
-
     public class AssetGuiderSettings : ScriptableObject
     {
         #region Property and Field
