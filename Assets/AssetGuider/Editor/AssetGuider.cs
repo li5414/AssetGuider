@@ -35,7 +35,7 @@ namespace Developer.AssetGuider
         [MenuItem("Tool/Asset Guider Settings &G")]
         private static void FocusSettings()
         {
-            var settings = AssetDatabase.LoadAssetAtPath<AssetGuiderSettings>(settingsPath);
+            var settings = AssetDatabase.LoadAssetAtPath(settingsPath, typeof(AssetGuiderSettings)) as AssetGuiderSettings;
             if (settings == null)
             {
                 settings = ScriptableObject.CreateInstance<AssetGuiderSettings>();
@@ -47,7 +47,7 @@ namespace Developer.AssetGuider
         [OnOpenAsset]
         private static bool OnOpenAsset(int instanceID, int line)
         {
-            var settings = AssetDatabase.LoadAssetAtPath<AssetGuiderSettings>(settingsPath);
+            var settings = AssetDatabase.LoadAssetAtPath(settingsPath, typeof(AssetGuiderSettings)) as AssetGuiderSettings;
             if (settings == null)
                 return false;
             var assetAbsolutePath = Application.dataPath + "/" + AssetDatabase.GetAssetPath(instanceID).Replace("Assets", string.Empty);
