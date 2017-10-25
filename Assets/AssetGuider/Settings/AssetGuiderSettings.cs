@@ -17,7 +17,7 @@ namespace Developer.AssetGuider
     public class AssetGuiderSettings : ScriptableObject
     {
         #region Property and Field
-        public string extensions = ".txt|.shader";
+        public string extensions = ".txt$|.shader$";
         #endregion
     }
 }
