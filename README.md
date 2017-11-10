@@ -30,7 +30,7 @@
 ## Preview
 - AssetGuiderSettings
 
-![AssetGuiderSettings](./Attachments/AssetGuiderSettings.png)
+![AssetGuiderSettings](./Attachments/README_Image/AssetGuider.gif)
 
 ## Contact
 - If you have any questions, feel free to contact me at mogoson@qq.com.

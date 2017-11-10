@@ -29,10 +29,10 @@
 - AssetGuiderSettings：文件扩展名配置文件。
 - AssetGuider：拦截资源文件打开事件，调用默认程序打开资源文件。
 
-## 图示
+## 预览
 - AssetGuiderSettings
 
-![AssetGuiderSettings](./Attachments/AssetGuiderSettings.png)
+![AssetGuiderSettings](./Attachments/README_Image/AssetGuider.gif)
 
 ## 联系
 - 如果你有任何问题或者建议，欢迎通过mogoson@qq.com联系我。
