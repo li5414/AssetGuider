@@ -30,7 +30,7 @@
 - AssetGuider：拦截资源文件打开事件，调用默认程序打开资源文件。
 
 ## 预览
-- AssetGuiderSettings
+- AssetGuider
 
 ![AssetGuiderSettings](./Attachments/README_Image/AssetGuider.gif)
 
