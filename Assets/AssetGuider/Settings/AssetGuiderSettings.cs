@@ -1,12 +1,12 @@
-/*************************************************************************
- *  Copyright (C), 2017-2018, Mogoson Tech. Co., Ltd.
+﻿/*************************************************************************
+ *  Copyright © 2017-2018 Mogoson. All rights reserved.
  *------------------------------------------------------------------------
  *  File         :  AssetGuiderSettings.cs
  *  Description  :  Config of Assets extension.
  *------------------------------------------------------------------------
  *  Author       :  Mogoson
  *  Version      :  0.1.0
- *  Date         :  8/30/2017
+ *  Date         :  3/7/2018
  *  Description  :  Initial development version.
  *************************************************************************/
 
@@ -16,7 +16,7 @@ namespace Developer.AssetGuider
 {
     public class AssetGuiderSettings : ScriptableObject
     {
-        #region Property and Field
+        #region Field and Property
         public string extensions = ".txt$|.shader$";
         #endregion
     }
