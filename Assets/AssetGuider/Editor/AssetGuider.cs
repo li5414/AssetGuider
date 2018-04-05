@@ -17,7 +17,7 @@ using UnityEditor;
 using UnityEditor.Callbacks;
 using UnityEngine;
 
-namespace Developer.AssetGuider
+namespace Mogoson.AssetGuider
 {
     public static class AssetGuider
     {

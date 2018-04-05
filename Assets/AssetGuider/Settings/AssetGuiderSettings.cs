@@ -12,7 +12,7 @@
 
 using UnityEngine;
 
-namespace Developer.AssetGuider
+namespace Mogoson.AssetGuider
 {
     public class AssetGuiderSettings : ScriptableObject
     {
