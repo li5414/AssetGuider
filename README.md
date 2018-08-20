@@ -28,9 +28,9 @@
 - AssetGuider : Capture the event of open Asset in Unity and call OS open the Asset use the default application.
 
 ## Preview
-- AssetGuider
+- Asset Guider
 
-![AssetGuiderSettings](./Attachments/README_Image/AssetGuider.gif)
+![Asset GuiderSettings](./Attachments/README_Image/AssetGuider.gif)
 
 ## Contact
-- If you have any questions, feel free to contact me at mogoson@qq.com.
+- If you have any questions, feel free to contact me at mogoson@outlook.com.

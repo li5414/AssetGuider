@@ -30,9 +30,9 @@
 - AssetGuider：拦截资源文件打开事件，调用默认程序打开资源文件。
 
 ## 预览
-- AssetGuider
+- Asset Guider
 
-![AssetGuiderSettings](./Attachments/README_Image/AssetGuider.gif)
+![Asset GuiderSettings](./Attachments/README_Image/AssetGuider.gif)
 
 ## 联系
-- 如果你有任何问题或者建议，欢迎通过mogoson@qq.com联系我。
+- 如果你有任何问题或者建议，欢迎通过mogoson@outlook.com联系我。
