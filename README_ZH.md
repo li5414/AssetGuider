@@ -32,7 +32,7 @@
 ## 预览
 - Asset Guider
 
-![Asset GuiderSettings](./Attachments/README_Image/AssetGuider.gif)
+![Asset Guider Settings](./Attachments/README_Image/AssetGuider.gif)
 
 ## 联系
 - 如果你有任何问题或者建议，欢迎通过mogoson@outlook.com联系我。
