@@ -43,7 +43,9 @@ namespace Mogoson.AssetGuider
         {
             var settings = AssetDatabase.LoadAssetAtPath(SettingsPath, typeof(AssetGuiderSettings)) as AssetGuiderSettings;
             if (settings == null)
+            {
                 return false;
+            }
 
             var assetPath = Application.dataPath + "/" + AssetDatabase.GetAssetPath(instanceID).Replace("Assets", string.Empty);
             if (Regex.IsMatch(Path.GetExtension(assetPath), settings.extensions))
@@ -51,8 +53,7 @@ namespace Mogoson.AssetGuider
                 Application.OpenURL(assetPath);
                 return true;
             }
-            else
-                return false;
+            return false;
         }
         #endregion
     }
