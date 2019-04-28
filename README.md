@@ -9,7 +9,7 @@
 
 ## Environment
 - Unity 5.0 or above.
-- .Net Framework 3.0 or above.
+- .Net Framework 3.5 or above.
 
 ## Prerequisite
 - Unity provide the API(OnOpenAsset callback attribute) to capture the event of open Asset.
@@ -22,10 +22,6 @@
   do not handle it but Unity do.
 - Set the default application of Asset by type(extension) in OS. example set "Sublime Text" as the default editor
   of Shader Asset.
-
-## Achieve
-- AssetGuiderSettings : Config of Assets extension.
-- AssetGuider : Capture the event of open Asset in Unity and call OS open the Asset use the default application.
 
 ## Preview
 - Asset Guider

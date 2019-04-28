@@ -11,7 +11,7 @@
 
 ## 环境
 - Unity 5.0 或更高版本。
-- .Net Framework 3.0 或更高版本。
+- .Net Framework 3.5 或更高版本。
 
 ## 条件
 - Unity提供OnOpenAsset编辑器属性命令来拦截资源文件打开事件。
@@ -24,10 +24,6 @@
   来打开文件。
 - 手动在操作系统中设定各类文件类型的默认打开程序，例如设定.shader文件的默认编辑器为Sublime Text，设定.fbx
   文件的默认编辑器为Maya等。
-
-## 实现
-- AssetGuiderSettings：文件扩展名配置文件。
-- AssetGuider：拦截资源文件打开事件，调用默认程序打开资源文件。
 
 ## 预览
 - Asset Guider
