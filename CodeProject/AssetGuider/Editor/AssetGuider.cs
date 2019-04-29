@@ -22,7 +22,7 @@ namespace Mogoson.AssetGuider
     public static class AssetGuider
     {
         #region Field and Property
-        private const string SETTINGS_PATH = "Assets/AssetGuider/Settings/AssetGuiderSettings.asset";
+        private const string SETTINGS_PATH = "Assets/Editor/AssetGuider/AssetGuiderSettings.asset";
         #endregion
 
         #region Private Method
