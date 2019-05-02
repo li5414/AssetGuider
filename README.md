@@ -26,7 +26,7 @@
 ## Preview
 - Asset Guider
 
-![Asset Guider Settings](./Attachments/README_Image/AssetGuider.gif)
+![Asset Guider Settings](./Attachment/README_Image/AssetGuider.gif)
 
 ## Contact
 - If you have any questions, feel free to contact me at mogoson@outlook.com.
