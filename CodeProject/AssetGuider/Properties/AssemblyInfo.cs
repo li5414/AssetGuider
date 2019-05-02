@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AssetGuider")]
 [assembly: AssemblyDescription("Unity Asset guider")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Mogoson")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AssetGuider")]
 [assembly: AssemblyCopyright("Copyright ©  2017-2019")]
 [assembly: AssemblyTrademark("")]
