@@ -7,7 +7,7 @@
     <ProjectGuid>{911F2FEC-82CE-4607-BFC6-0EF374B798AD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mogoson.AssetGuider</RootNamespace>
+    <RootNamespace>MGS.AssetGuider</RootNamespace>
     <AssemblyName>AssetGuider</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
