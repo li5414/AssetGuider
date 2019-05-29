@@ -19,7 +19,7 @@ using UnityEngine;
 
 namespace MGS.AssetGuider
 {
-    public static class AssetGuider
+    public class AssetGuider
     {
         #region Field and Property
         private const string SETTINGS_PATH = "Assets/Editor/AssetGuider/AssetGuiderSettings.asset";
