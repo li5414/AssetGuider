@@ -1,5 +1,4 @@
 ﻿# AssetGuider
-- [中文手册](./README_ZH.md)
 
 ## Summary
 - Unity Asset guider.
